@@ -52,7 +52,7 @@ class DevProfilerStatus extends Command
             ->setDescription('Profile Status');
 
         $this->addArgument(
-            self::NAME_ARGUMENT,
+            self::NAME_ARGUMENT
         );
 
         parent::configure();
