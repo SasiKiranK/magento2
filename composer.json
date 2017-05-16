@@ -69,7 +69,8 @@
         "ext-zip": "*",
         "ext-pdo_mysql": "*",
         "sjparkinson/static-review": "~4.1",
-        "ramsey/uuid": "3.6.1"
+        "ramsey/uuid": "3.6.1",
+        "mirasvit/module-profiler": "^1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "4.1.0",

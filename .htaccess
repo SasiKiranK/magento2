@@ -4,6 +4,8 @@
 
 #   SetEnv MAGE_MODE developer
 
+SetEnv MAGE_PROFILER firebug
+
 ############################################
 ## uncomment these lines for CGI mode
 ## make sure to specify the correct cgi php binary file name

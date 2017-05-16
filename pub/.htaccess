@@ -4,6 +4,7 @@
 
 # Options are default, production, or developer
 #   SetEnv MAGE_MODE default
+SetEnv MAGE_PROFILER firebug
 
 ############################################
 ## Uncomment these lines for CGI mode.

@@ -18,6 +18,7 @@
  * See COPYING.txt for license details.
  */
 
+#  $_SERVER['MAGE_PROFILER']=1;
 try {
     require __DIR__ . '/app/bootstrap.php';
 } catch (\Exception $e) {
